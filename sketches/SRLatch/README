@@ -1,0 +1,5 @@
+SRLatch
+
+This sketch is a simple test cycle for an /SR latch circuit I built with
+the Arduino for fun. It doesn't really do anything but cycle through
+inputs so I can check the wiring.
